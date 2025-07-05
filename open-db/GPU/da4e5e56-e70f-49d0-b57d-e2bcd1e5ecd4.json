@@ -2,7 +2,7 @@
   "opendb_id": "da4e5e56-e70f-49d0-b57d-e2bcd1e5ecd4",
   "power_connectors": {
     "pcie_6_pin": 0,
-    "pcie_8_pin": 0,
+    "pcie_8_pin": 209,
     "pcie_12VHPWR": 0,
     "pcie_12V_2x6": 0
   },
